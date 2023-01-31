@@ -1,0 +1,15 @@
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\obj\Debug\net6.0\Homework8_Task4.csproj.AssemblyReference.cache
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\obj\Debug\net6.0\Homework8_Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\obj\Debug\net6.0\Homework8_Task4.AssemblyInfoInputs.cache
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\obj\Debug\net6.0\Homework8_Task4.AssemblyInfo.cs
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\obj\Debug\net6.0\Homework8_Task4.csproj.CoreCompileInputs.cache
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\bin\Debug\net6.0\Homework8_Task4.exe
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\bin\Debug\net6.0\Homework8_Task4.deps.json
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\bin\Debug\net6.0\Homework8_Task4.runtimeconfig.json
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\bin\Debug\net6.0\Homework8_Task4.dll
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\bin\Debug\net6.0\Homework8_Task4.pdb
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\obj\Debug\net6.0\Homework8_Task4.dll
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\obj\Debug\net6.0\refint\Homework8_Task4.dll
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\obj\Debug\net6.0\Homework8_Task4.pdb
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\obj\Debug\net6.0\Homework8_Task4.genruntimeconfig.cache
+C:\Users\Lex\Desktop\Homeworks\Homework8_Task4\obj\Debug\net6.0\ref\Homework8_Task4.dll
