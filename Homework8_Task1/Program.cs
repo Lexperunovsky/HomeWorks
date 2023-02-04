@@ -8,7 +8,7 @@ int columns = int.Parse(Console.ReadLine() ?? "");
 int[,] array = GetArray(rows, columns, 0, 10);
 PrintArray(array);
 SortArray(array);
-Console.WriteLine($"\nОтсортированный массив:  ");
+Console.WriteLine($"\n Отсортированный массив:  ");
 
 
 ////////////////////////////////////////////////
